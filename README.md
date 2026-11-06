@@ -1,4 +1,4 @@
-# UCT-AP1-SenseBox
+# SenseBox Firmware - Urban Climate Twin Soest
 
 Firmware  für die senseBox im Projekt UCT. Die Firmware erfasst Umweltdaten, verarbeitet die
 Messwerte und überträgt sie per LoRaWAN.
