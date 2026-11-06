@@ -28,4 +28,8 @@ den Anforderungen dokumentiert.
 Die benötigten Bibliotheken müssen in der Arduino-Entwicklungsumgebung
 installiert sein, bevor der Sketch kompiliert werden kann.
 
+## Lizenz
 
+Copyright 2026 Urban Climate Twin, Fachhochschule Südwestfalen
+
+Lizenziert unter der [Apache License 2.0](LICENSE).
